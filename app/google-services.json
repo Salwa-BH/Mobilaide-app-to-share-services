@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "917606313505",
+    "firebase_url": "https://mobilaide-53491.firebaseio.com",
+    "project_id": "mobilaide-53491",
+    "storage_bucket": "mobilaide-53491.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917606313505:android:62d030e2083e07a13ebd60",
+        "android_client_info": {
+          "package_name": "com.example.mobilaide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917606313505-f8jit7tcub69t9fdo2427mfhegbuplb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobilaide",
+            "certificate_hash": "a87716d30b5339d0731685b3847b38432a73130b"
+          }
+        },
+        {
+          "client_id": "917606313505-bccmsspq7rmua3j5bm1qnjb363deh9s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhEui9jpNwX0kNiCK6QYJ21CAiwecOD2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917606313505-bccmsspq7rmua3j5bm1qnjb363deh9s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
